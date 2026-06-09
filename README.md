@@ -2,7 +2,7 @@
 
 Ссылка на проект - @FurriyaBot
 
-![Скриншот 1] (https://github.com/alekseyshkurenko-del/ai_assistent/blob/main/Screenshot%202026-06-09%20172513.png?raw=true)
+![Скриншот 1](https://github.com/alekseyshkurenko-del/ai_assistent/blob/main/Screenshot%202026-06-09%20172513.png?raw=true)
 
 ## Описание проекта
 
